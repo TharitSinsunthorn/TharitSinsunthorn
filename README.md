@@ -18,9 +18,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tharit Sinsunthorn</h1>
 <h3 align="center">An Aerospace Engineering student who's impassioned by space mission and robotics development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharitsinsunthorn&label=Profile%20views&color=0e75b6&style=flat" alt="tharitsinsunthorn" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=tharitsinsunthorn&label=Profile%20views&color=0e75b6&style=flat" alt="tharitsinsunthorn" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharitsinsunthorn" alt="tharitsinsunthorn" /></a> </p>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=tharitsinsunthorn" alt="tharitsinsunthorn" />
+    </a> 
+</p>
 
 - 🔭 I’m currently working at Space Robotics Laboratory **Moonshot Project**
 
@@ -30,9 +36,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tharit-sinsunthorn-58376523b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tharit Sinsunthorn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tharitkaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharit Sinsunthorn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thatharit__?igsh=bG8yeGs1bXJpcXU3&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tharit Sinsunthorn" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/tharit-sinsunthorn-58376523b/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tharit Sinsunthorn" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/tharitkaka" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharit Sinsunthorn" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/thatharit__?igsh=bG8yeGs1bXJpcXU3&utm_source=qr" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tharit Sinsunthorn" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -76,10 +88,7 @@ Here are some ideas to get you started:
     <!-- Matlab -->
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-    </a> 
-    
-    
-    
+    </a>     
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharitsinsunthorn&show_icons=true&locale=en&layout=compact" alt="tharitsinsunthorn" /></p>
