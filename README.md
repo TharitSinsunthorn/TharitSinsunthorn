@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=tharitsinsunthorn" alt="tharitsinsunthorn" />
+        <img src="https://github-profile-trophy.vercel.app/?username=tharitsinsunthorn&theme=nord" alt="tharitsinsunthorn" />
     </a> 
 </p>
 
-- 🔭 I’m currently working at Space Robotics Laboratory **Moonshot Project**
+- 🔭 I’m currently working at [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html) **Moonshot Project** of Tohoku University.
 
-- 👨‍💻 All of my projects are available at [https://github.com/TharitSinsunthorn](https://github.com/TharitSinsunthorn)
+- 👨‍💻 All of my projects are available at [My github](https://github.com/TharitSinsunthorn)
 
 - 📫 How to reach me **sintharit1716@gmail.com**
 
