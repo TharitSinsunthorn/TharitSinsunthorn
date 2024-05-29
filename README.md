@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tharit Sinsunthorn</h1>
 <h3 align="center">An Aerospace Engineering student who's impassioned by space mission and robotics development</h3>
 
-<p align="left"> 
+<!-- <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=tharitsinsunthorn&label=Profile%20views&color=0e75b6&style=flat" alt="tharitsinsunthorn" /> 
-</p>
+</p> -->
 
-<p align="left"> 
+<!-- <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=tharitsinsunthorn&theme=nord" alt="tharitsinsunthorn" />
     </a> 
-</p>
+</p> -->
 
 - 🔭 I’m currently working at [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html) **Moonshot Project** of Tohoku University.
 
