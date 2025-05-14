@@ -69,6 +69,10 @@ Here are some ideas to get you started:
     <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ros" width="40" height="40"/> 
     </a>
+    <!-- Pytorch -->
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="ros" width="40" height="40"/> 
+    </a>
     <!-- OpenCV -->
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
