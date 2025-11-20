@@ -92,7 +92,7 @@ Here are some ideas to get you started:
     </a>     
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharitsinsunthorn&show_icons=true&locale=en&layout=compact" alt="tharitsinsunthorn" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharitsinsunthorn&show_icons=true&locale=en&layout=compact" alt="tharitsinsunthorn" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharitsinsunthorn&show_icons=true&locale=en" alt="tharitsinsunthorn" /></p> -->
 
