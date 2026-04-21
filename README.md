@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/tharit-sinsunthorn-58376523b/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tharit Sinsunthorn" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/tharitkaka" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharit Sinsunthorn" height="30" width="40" />
-    </a>
+  <a href="https://www.linkedin.com/in/tharit-sinsunthorn-58376523b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/tharitkaka" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
