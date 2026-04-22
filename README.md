@@ -28,9 +28,9 @@ Here are some ideas to get you started:
     </a> 
 </p> -->
 
-- 🔭 I’m currently Master student at the [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html) of Tohoku University.
+- 🔭 Graduated as Master student from the [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html) of Tohoku University.
 
-- 👨‍💻 All of my projects are available at [My github](https://github.com/TharitSinsunthorn)
+- 👨‍💻 All of my projects are available at [My page](https://tharitsinsunthorn.github.io/projects/)
 
 - 📫 How to reach me **sintharit1716@gmail.com**
 
