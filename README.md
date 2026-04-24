@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Tharit Sinsunthorn</h1>
-<h3 align="center">An Aerospace Engineering student who's impassioned by space mission and robotics development</h3>
+<h3 align="center">An Physical AI Engineer who's impassioned by space robotics development</h3>
 
 <!-- <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=tharitsinsunthorn&label=Profile%20views&color=0e75b6&style=flat" alt="tharitsinsunthorn" /> 
