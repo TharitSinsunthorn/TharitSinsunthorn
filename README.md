@@ -28,7 +28,9 @@ Here are some ideas to get you started:
     </a> 
 </p> -->
 
-- 🔭 Graduated as Master student from the [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html) of Tohoku University.
+-🤖 Physical AI Engineer at [TRON K.K.]([http://www.astro.mech.tohoku.ac.jp/e/index.html](https://tron.tokyo/en/))
+
+-🔭 Graduated as Master student from the [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html) of Tohoku University.
 
 - 👨‍💻 All of my projects are available at [My page](https://tharitsinsunthorn.github.io/projects/)
 
