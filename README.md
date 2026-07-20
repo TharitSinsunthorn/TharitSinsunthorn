@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [My page](https://tharitsinsunthorn.github.io/projects/)
 
-- 📫 How to reach me **sintharit1716@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tharit-sinsunthorn-58376523b/" target="_blank">
