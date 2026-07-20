@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     </a> 
 </p> -->
 
--🤖 Physical AI Engineer at [TRON K.K.]([http://www.astro.mech.tohoku.ac.jp/e/index.html](https://tron.tokyo/en/))
+-🤖 Physical AI Engineer at [TRON K.K.](https://tron.tokyo/en/)
 
 -🔭 Graduated as Master student from the [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html) of Tohoku University.
 
